@@ -1,5 +1,5 @@
 # Marching Cube
-For each program filename.cc in this folder:
+For each program filename.cc in /code:
 
 g++ -o filename.o filename.cc
 ./filename.o
